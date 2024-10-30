@@ -121,7 +121,7 @@ body {
 p,h5{
     font-family: editorial light;
 }
-#page1>h1{
+#page1 #container h1{
     font-size: 410px;
     margin-top: 50px;
     color: #C4BCB2;
@@ -131,6 +131,7 @@ p,h5{
     width: 94%;
     text-align: center;
     line-height: 350px;
+    margin-top: 2vh;
 }
 
 #page2{
