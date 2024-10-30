@@ -1,15 +1,18 @@
 @font-face {
-    font-family: domain;
-    src: url(DomaineDispCondMedium.ttf);
+    font-family: 'domain';
+    src: url('fonts/DomaineDispCondMedium.ttf') format('truetype');
+    font-display: swap;
 }
 @font-face {
-    font-family: canopee;
-    src: url(Canopee\ Regular.otf);
+    font-family: 'canopee';
+    src: url('fonts/Canopee-Regular.otf') format('opentype');
+    font-display: swap;
 }
 
 @font-face {
-    font-family: editorial light;
-    src: url(fonts/PPEditorialNew-Ultralight-BF644b21500d0c0.otf);
+    font-family: 'editorial light';
+    src: url('fonts/PPEditorialNew-Ultralight-BF644b21500d0c0.otf') format('opentype');
+    font-display: swap;
 }
 
 * { 
