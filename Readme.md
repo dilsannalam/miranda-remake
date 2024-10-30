@@ -3,7 +3,7 @@
 A playful, interactive portfolio website. Because why use a boring static page when you can make things spin? 
 
 🌐 Live Demo
-[Check it out here](your-website-url-here)
+[Check it out here](https://dilsannalam.github.io/miranda-remake)
 
 ✨ Features
  Locomotive scroll for smooth page navigation
