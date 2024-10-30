@@ -7,6 +7,11 @@
     src: url(Canopee\ Regular.otf);
 }
 
+@font-face {
+    font-family: editorial light;
+    src: url(fonts/PPEditorialNew-Ultralight-BF644b21500d0c0.otf);
+}
+
 * { 
     margin: 0;
     padding: 0;
@@ -114,7 +119,7 @@ body {
     font-size: 14px;
 }
 p,h5{
-    font-family: domain;
+    font-family: editorial light;
 }
 #page1>h1{
     font-size: 410px;
